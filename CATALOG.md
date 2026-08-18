@@ -162,6 +162,7 @@ These skills work with [Mercury Agent](https://github.com/cosmicstack-labs/mercu
 | Deployment Automation | Zero-downtime deployments, blue/green, canary, rolling updates, and rollback automation | [SKILL.md](./categories/automation/deployment-automation/SKILL.md) |
 || Robotic Process Automation | Bot design, UI automation, OCR, attended vs unattended bots, and RPA governance | [SKILL.md](./categories/automation/rpa/SKILL.md) |
 || Daily Briefing | Automated daily tech briefing with multi-source collection, knowledge-base deduplication, AI summarization, and TTS speech synthesis | [SKILL.md](./categories/automation/daily-briefing/SKILL.md) |
+| YouTube Research Automation | Agent workflows for YouTube transcripts, video and channel search, playlist extraction, and free new-upload monitoring, with cost discipline and timestamped attribution | [SKILL.md](./categories/automation/youtube-research-automation/SKILL.md) |
 
 ## Data
 
